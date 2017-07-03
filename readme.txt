@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software.
-my first git project 
-test one
+建设自己的博客
